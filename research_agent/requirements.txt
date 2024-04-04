@@ -1,9 +1,0 @@
-python-dotenv
-langchain
-langchain_community
-langchain-openai
-openai
-requests
-duckduckgo-search
-ipykernel
-beautifulsoup4
